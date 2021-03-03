@@ -1,4 +1,8 @@
-This is pretty useless but now we have a basic flask ajax template for the future.
+This is a fork from https://github.com/impshum/Flask-Screenshot
+
+Looks really good. Solid code.
+
+Uses ajax and flask.
 
 ![ss1](https://i.imgur.com/B5cJg4a.jpg)
 
